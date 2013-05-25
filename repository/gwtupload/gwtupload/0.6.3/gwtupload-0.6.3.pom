@@ -1,0 +1,9 @@
+<project>
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>gwtupload</groupId>
+    <artifactId>gwtupload</artifactId>
+    <version>0.6.3</version>
+    <packaging>jar</packaging>
+    <name>gwtupload</name>
+    <description>gwtupload</description>
+</project>
